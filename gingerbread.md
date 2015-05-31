@@ -1,10 +1,10 @@
 ---
-layout: recipe
-title: Gingerbread
+layout: default
+title: setting up blog in Jekyll
 recipe-attribution: HungryJenny
 recipe-attribution-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
 ---
-Makes about 15 small cookies.
+Learn or Die goes live
 
 ## Ingredients
 
