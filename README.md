@@ -22,7 +22,7 @@ Note: If any teaching style is getting stale to you, just switch to another Frie
 
 ####Chapter 1-2 : C
 **Friendly NPC's:**
-*[C Tutorial - Cprogramming.com][]
+* [C Tutorial - Cprogramming.com][]
 
 
 
