@@ -14,7 +14,7 @@ now with 20% more absorption!
 * [Learning Javascript][] by Tim Wright. Good comprehensive starting guide.
 
 **Ruby**
-* [Introduction to Programming I][] App Academy's beginner guide to Ruby; it's a three-part series on GitHub + practice and exercise files
+* [Introduction to Programming][] App Academy's beginner guide to Ruby; it's a three-part series on GitHub + practice and exercise files
 
 **Compilations**
 * [Sparkbox Apprenticeship][] Curriculum
