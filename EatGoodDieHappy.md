@@ -1,4 +1,8 @@
 #Eat Good, Die Happy
+
+*onigiri : steamed rice + noritama furikake + seaweed
+*spinach tamagoyaki : boiled spinach + soy sauce [rolled] in eggs
+
 ##Level 1 - Beginner
 ##Level 2 - Journeywoman
 * Omurice Recipe from Cooking With Dog https://www.youtube.com/watch?v=bcJlmhoYNfI
