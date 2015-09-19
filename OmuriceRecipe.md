@@ -1,10 +1,9 @@
 ---
 layout: default
-title: setting up blog in Jekyll
-recipe-attribution: HungryJenny
-recipe-attribution-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
+title: Omurice Omlette
+recipe-attribution: Cooking With Dog
+recipe-attribution-link: [Omurice オムライス][]
 ---
-Adapted from Cooking with Dog recipe: [Omurice オムライス][]
 
 ## Ingredients
 
