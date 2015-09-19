@@ -1,9 +1,4 @@
----
-layout: default
-title: Omurice Omlette
-recipe-attribution: Cooking With Dog
-recipe-attribution-link: [Omurice オムライス][]
----
+Recipe adapted from [Omurice オムライス][] from Cooking with Dog
 
 ## Ingredients
 
