@@ -16,17 +16,22 @@ now with 20% more absorption!
 **Ruby**
 * [Introduction to Programming][] App Academy's beginner guide to Ruby; it's a three-part series on GitHub + practice and exercise files
 
+**C**
+* [C Tutorial - Cprogramming.com][]
+
+
 **Compilations**
 * [Sparkbox Apprenticeship][] Curriculum
+
+####Efficiency ++
+* [The principle of least effort][], or the path of least resistance
+* [Wunderlist][], the to-do list of ur dreams
+* [Getting Real][], 37signals
+* [Passionate Programmer][], Chad Fowler
 
 ####How-to Design Your Universe
 * [The Design of Everyday Things][] by Don Norman
 * [Fresh Tilled Soil AUX][] UX Recommended Readings
-
-####Efficiency ++
-* [Wunderlist][], the to-do list of ur dreams
-* [Getting Real][], 37signals
-* [Passionate Programmer][], Chad Fowler
 
 ####Eat Good, Die Happy
 **Level 1 - Beginner**
@@ -40,11 +45,6 @@ now with 20% more absorption!
 
 
 Note: If any teaching style is getting stale to you, just switch to another Friendly NPC to jog a different way of understanding!</p>
-
-####Chapter 1-2 : C
-**Friendly NPC's:**
-* [C Tutorial - Cprogramming.com][]
-
 
 
 
@@ -63,4 +63,4 @@ Note: If any teaching style is getting stale to you, just switch to another Frie
 [C Tutorial - Cprogramming.com]: http://www.cprogramming.com/tutorial/c-tutorial.html
 [Introduction to Programming]: https://github.com/appacademy/prep-work/blob/master/coding-test-1/introduction-to-programming-1.md
 [Wunderlist]: https://www.wunderlist.com
-
+[The Principle of Least Effort]: 
