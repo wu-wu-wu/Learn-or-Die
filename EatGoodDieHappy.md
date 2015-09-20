@@ -5,7 +5,7 @@
 
 * onigiri : steamed rice + noritama furikake + seaweed
 * spinach tamagoyaki : boiled spinach + soy sauce [rolled] in eggs
-* 
+
 ##Level 2 - Journeywoman
 * [Omurice Omelette Recipe][] - from Cooking With Dog 
 * [Cream Stew with Chicken and Root Vegetables][] - from cooking with dog 
