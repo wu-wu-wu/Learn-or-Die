@@ -63,4 +63,4 @@ Note: If any teaching style is getting stale to you, just switch to another Frie
 [C Tutorial - Cprogramming.com]: http://www.cprogramming.com/tutorial/c-tutorial.html
 [Introduction to Programming]: https://github.com/appacademy/prep-work/blob/master/coding-test-1/introduction-to-programming-1.md
 [Wunderlist]: https://www.wunderlist.com
-[The Principle of Least Effort]: 
+[The Principle of Least Effort]: https://www.youtube.com/watch?v=fCn8zs912OE
