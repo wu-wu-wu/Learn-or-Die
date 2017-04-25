@@ -4,6 +4,7 @@ findings &amp; documentations of my +EXP self-improvement process.
 now with 20% more absorption! 
 
 <hr>
+
 ## Journey Map:
 
 #### Hey Get Off YouTube
@@ -24,7 +25,7 @@ now with 20% more absorption!
 **Compilations**
 * [Sparkbox Apprenticeship][] Curriculum
 
-####Efficiency ++
+#### Efficiency ++
 * [The principle of least effort][], or the path of least resistance
 * [Wunderlist][], the to-do list of ur dreams
 * [Getting Real][], 37signals
