@@ -4,11 +4,11 @@ findings &amp; documentations of my +EXP self-improvement process.
 now with 20% more absorption! 
 
 <hr>
-##Journey Map:
+## Journey Map:
 
-####Hey Get Off YouTube
+#### Hey Get Off YouTube
 
-####Start Typing You Asshole
+#### Start Typing You Asshole
 **JavaScript**
 * [Gordon Zhu's Practical Javascript Course][] The BEST. Learn as you build a to-do list app from a barebones console creature into a full-fledged frontend TodoMVC.
 * [Xah Lee's JS Tutorial][]. Teaches you no-nonsense JS.
@@ -30,11 +30,11 @@ now with 20% more absorption!
 * [Getting Real][], 37signals
 * [Passionate Programmer][], Chad Fowler
 
-####How-to Design Your Universe
+#### How-to Design Your Universe
 * [The Design of Everyday Things][] by Don Norman
 * [Fresh Tilled Soil AUX][] UX Recommended Readings
 
-####Eat Good, Die Happy
+#### Eat Good, Die Happy
 **Level 1 - Beginner**
 
 **Level 2 - Journeywoman**
