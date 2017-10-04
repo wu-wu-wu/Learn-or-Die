@@ -7,7 +7,7 @@
 * spinach tamagoyaki : boiled spinach + soy sauce [rolled] in eggs
 
 ##Level 2 - Journeywoman
-* [Omurice Omelette Recipe][] - from Cooking With Dog 
+* [Omurice Recipe][] - Cooking With Dog 
 * [Cream Stew with Chicken and Root Vegetables][] - from cooking with dog 
 
 ##Level 3 - Seasoned Cooking Badass
@@ -15,4 +15,4 @@
 ##Boss Levels
 
 [Cream Stew with Chicken and Root Vegetables]: https://www.youtube.com/watch?v=gEcbLyb4cms
-[Omurice Omelette Recipe]: https://www.youtube.com/watch?v=bcJlmhoYNfI
+[Omurice Recipe]: ../recipe__breakfast__omurice.md
